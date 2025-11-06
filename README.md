@@ -1,8 +1,4 @@
 
-
-
-
-```markdown
 # 💸 MoneyTracker
 
 A simple **Monthly Spending Tracker** built with **HTML, CSS, and JavaScript**, designed to help you track and visualize your expenses by category and month.  
@@ -68,7 +64,7 @@ MoneyTracker/
 1. Clone or download this repository:
    ```bash
    git clone https://github.com/SEDENYS/MoneyTracker.git
-````
+
 
 2. Open the folder and simply launch `index.html` in your browser.
 3. Start tracking your monthly expenses instantly!
@@ -108,11 +104,6 @@ To clear your data, open DevTools → Application → LocalStorage and remove th
 📍 Toronto, Canada
 💼 GitHub: [@SEDENYS](https://github.com/SEDENYS)
 
----
-
-## 🪙 License
-
-This project is licensed under the **MIT License** — free to use, modify, and share.
 
 ---
 
