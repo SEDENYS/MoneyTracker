@@ -1,8 +1,10 @@
-
 # 💸 MoneyTracker
 
-A simple **Monthly Spending Tracker** built with **HTML, CSS, and JavaScript**, designed to help you track and visualize your expenses by category and month.  
+
+A simple **Monthly Spending Tracker** built with **HTML, CSS, and JavaScript**, designed to help you track and visualize your expenses by category and month.
 All data is stored in **LocalStorage**, so your progress stays saved even after you close the browser.
+
+### 🔗 [Try the Live Demo Here](https://sedenys.github.io/MoneyTracker/)
 
 ---
 
